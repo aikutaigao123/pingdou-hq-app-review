@@ -4,23 +4,12 @@ Public demo assets for Apple App Review (Guideline 2.1).
 
 ## Demo video
 
-Place the filmed demo under `demo/` (or attach it as a GitHub Release asset if the file is large).
+- File: [`demo/9月11日.mov`](demo/9月11日.mov)
+- Direct download: https://github.com/aikutaigao123/pingdou-hq-app-review/raw/main/demo/9%E6%9C%8811%E6%97%A5.mov
 
-The video should show:
-
-1. Current app on a **physical** Apple device (not Simulator)
-2. Initial **Bluetooth pairing** with the smart bead board (智能拼豆板)
-3. Full workflow with the hardware connected
+The video shows the current app on a physical Apple device, Bluetooth pairing with the smart bead board (智能拼豆板), and the workflow with the hardware connected.
 
 ## Links for App Store Connect
 
 - Support: https://aikutaigao123.github.io/pingdou-hq-support/support.html
-- Demo video: _(add direct link after upload)_
-
-## Note on file size
-
-GitHub blocks files over **100 MB**. Prefer:
-
-- GitHub **Release** asset for medium files, or
-- YouTube / iCloud / Google Drive (anyone-with-link) for large videos
-
+- Demo video: https://github.com/aikutaigao123/pingdou-hq-app-review/raw/main/demo/9%E6%9C%8811%E6%97%A5.mov
